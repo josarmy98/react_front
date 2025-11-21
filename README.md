@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # react_front
+# react_front
